@@ -29,10 +29,64 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 let someNumber = 33
 
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 //output = 33 and string
+
+
+// ***********operations***************
+
+let value = 3
+let negValue = -value
+// console.log(negValue);  //output = -3
+
+// console.log(2+2);  output = 4
+// console.log(2-2);  output = 0
+// console.log(2*2);  output = 4
+// console.log(2**3);  output = 8
+// console.log(2/3);  output = 0.666666666666
+// console.log(2%3);  output = 2
+
+// let str1 = "hello"
+// let str2 = " hitesh"
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+//output = hello hitesh
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+// console.log((3 + 4) * 5 % 3);
+
+// console.log(+true); 
+// console.log(+"");
+
+
+//output = 12 and 12 and 122 and 32 and 5 and true = true and +true = 1
+//output = (+"") = 1 and 0
+
+let num1, num2, num3
+num1 = num2 = num3 = 2+2
+
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);   
+
+//gameCounter++ = output = 101 and ++gameCounter = 101
+
+
+
+
+
+
+
+
+
 
 
 
