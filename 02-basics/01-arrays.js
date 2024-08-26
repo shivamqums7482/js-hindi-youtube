@@ -55,12 +55,7 @@
 // console.log(myn2);  //output = [ 1, 2, 3 ]
 
 
-const marvel_heros = ["thor", "Ironman", "spiderman"]
-const dc = ["superman", "flash", "batman"]
 
-marvel_heros.push(dc_heros)
-
-console.log(marvel_heros);
 
 
 
