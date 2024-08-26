@@ -9,9 +9,9 @@ console.log(3
     console.log("Hitesh")
 
 
-    let name = "hitesh"
-    let age = 18
-    let isLoggedIn = false
+    // let name = "hitesh"
+    // let age = 18
+    // let isLoggedIn = false
 
 
     // number = 2 to power 53 or 52  is the range
@@ -26,7 +26,11 @@ console.log(3
     // object
 
     // console.log(typeof "hitesh");
+    //output = string
     // console.log(typeof age);
-    // console.log(typeof null); output = object
-    console.log(typeof undefined); // output=undefined
+    //output = undefined
+    // console.log(typeof null); 
+    //output = object
+    // console.log(typeof undefined); 
+    // output=undefined
     
